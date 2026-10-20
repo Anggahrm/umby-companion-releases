@@ -1,7 +1,8 @@
 # UMBY Companion — Releases
 
-APK resmi **UMBY Companion**. Repositori ini hanya berisi distribusi APK dan
-manifest pembaruan; source code tersimpan di repositori privat.
+APK **UMBY Companion** untuk distribusi. Repositori ini hanya berisi distribusi
+APK dan manifest pembaruan; source code tersimpan di repositori privat.
+Aplikasi ini proyek pribadi dan tidak berafiliasi dengan universitas.
 
 ## Unduh
 
