@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2-test",
   "apkUrl": "https://github.com/Anggahrm/umby-companion-releases/releases/download/v1.0.1/UMBY-Companion-1.0.1.apk",
   "sha256": "03D4D7D3A358A65C000F15B007FB33C54F2EE0E39301D465AD39B6AF20905697",
-  "notes": "Player YouTube in-app, halaman detail tautan e-learning, perbaikan judul duplikat, dan update APK internal."
+  "notes": "Tes alur unduh dan pasang pembaruan dari dalam aplikasi."
 }
