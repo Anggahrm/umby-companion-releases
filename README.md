@@ -6,7 +6,7 @@ manifest pembaruan; source code tersimpan di repositori privat.
 ## Unduh
 
 - Rilis terbaru: https://github.com/Anggahrm/umby-companion-releases/releases/latest
-- Manifest pembaruan: https://raw.githubusercontent.com/Anggahrm/umby-companion-releases/main/version.json
+- Manifest pembaruan: https://raw.githubusercontent.com/Anggahrm/umby-companion-releases/refs/heads/main/version.json
 
 ## Versi 1.0.1
 
@@ -14,7 +14,7 @@ manifest pembaruan; source code tersimpan di repositori privat.
 - Minimal Android 8.0 (API 26)
 - Ukuran: 24.343.809 byte (23,2 MiB)
 - SHA-256:
-  `03D4D7D3A358A65C000F15B007FB33C54F2EE0E39301D465AD39B6AF20905697`
+  `D01E5AD724FAF02160FFAF10DA4C92038EF211FFCF9882AF9F0CDD2FE99B4599`
 
 ### Perubahan
 
