@@ -9,19 +9,21 @@ Aplikasi ini proyek pribadi dan tidak berafiliasi dengan universitas.
 - Rilis terbaru: https://github.com/Anggahrm/umby-companion-releases/releases/latest
 - Manifest pembaruan: https://raw.githubusercontent.com/Anggahrm/umby-companion-releases/refs/heads/main/version.json
 
-## Versi 1.0.1
+## Versi 1.0.2
 
 - Package: `dev.zumy.umbycompanion`
 - Minimal Android 8.0 (API 26)
-- Ukuran: 24.343.809 byte (23,2 MiB)
+- Ukuran: 24.343.813 byte (23,2 MiB)
 - SHA-256:
-  `D01E5AD724FAF02160FFAF10DA4C92038EF211FFCF9882AF9F0CDD2FE99B4599`
+  `B7C973BD545EE99D473521E6BE0379E80CCFA25BB08DBF9338C8218F257E3FA3`
 
 ### Perubahan
 
+- Kolom kode presensi menerima huruf dan angka, bukan hanya nomor.
+- Keyboard alfanumerik otomatis kapital; kode dinormalisasi ke huruf besar.
+- Validasi kode menjadi 6 karakter (contoh: `UJSEUS`).
 - Player YouTube langsung di dalam aplikasi.
 - Halaman detail native untuk tautan e-learning (`mod_url`).
-- Judul duplikat pada halaman video/daftar kelompok dihapus.
 - Pembaruan APK bisa diunduh dan dipasang dari dalam aplikasi.
 
 ## Cara pasang
