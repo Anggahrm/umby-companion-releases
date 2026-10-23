@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/Anggahrm/umby-companion-releases/releases/download/v1.0.2/UMBY-Companion-1.0.2.apk",
-  "sha256": "B7C973BD545EE99D473521E6BE0379E80CCFA25BB08DBF9338C8218F257E3FA3",
-  "notes": "Kolom kode presensi menerima huruf dan angka (contoh UJSEUS); keyboard alfanumerik dan validasi 6 karakter."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/Anggahrm/umby-companion-releases/releases/download/v1.0.3/UMBY-Companion-1.0.3.apk",
+  "sha256": "9835E29FAD352DB66170279A5DAC55DF2567CECE05BB6B7B8F135281938CBBD7",
+  "notes": "Perbaikan CSRF SIA pada absensi, deteksi respons gagal dari server, dan input kode presensi huruf/angka."
 }
