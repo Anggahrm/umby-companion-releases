@@ -9,23 +9,21 @@ Aplikasi ini proyek pribadi dan tidak berafiliasi dengan universitas.
 - Rilis terbaru: https://github.com/Anggahrm/umby-companion-releases/releases/latest
 - Manifest pembaruan: https://raw.githubusercontent.com/Anggahrm/umby-companion-releases/refs/heads/main/version.json
 
-## Versi 1.0.3
+## Versi 1.0.4
 
 - Package: `dev.zumy.umbycompanion`
 - Minimal Android 8.0 (API 26)
 - Ukuran: 24.343.813 byte (23,2 MiB)
 - SHA-256:
-  `9835E29FAD352DB66170279A5DAC55DF2567CECE05BB6B7B8F135281938CBBD7`
+  `C11F4C05590F6BF2C733E9DC52A90004D5E0B2D3B5426748509CB2EE27252930`
 
 ### Perubahan
 
-- Perbaikan absensi: token CSRF SIA diambil dari cookie dan script dashboard.
-- Token di-refresh otomatis sekali saat SIA membalas HTTP 419.
-- Respons `success:false` dari SIA ditampilkan sebagai gagal, bukan "Absensi tercatat".
-- Kolom kode presensi menerima huruf dan angka, keyboard alfanumerik, validasi 6 karakter (contoh: `UJSEUS`).
-- Player YouTube langsung di dalam aplikasi.
-- Halaman detail native untuk tautan e-learning (`mod_url`).
-- Pembaruan APK bisa diunduh dan dipasang dari dalam aplikasi.
+- Checkbox login sekarang bernama **Simpan kredensial**.
+- Kalau dicentang, NIM dan kata sandi disimpan terenkripsi, lalu aplikasi mencoba login otomatis saat dibuka kembali.
+- Login otomatis tetap berhenti di verifikasi Two Step/TOTP bila SSO kampus memintanya.
+- Kredensial tersimpan dihapus saat checkbox dilepas, logout, kembali ke halaman login, atau saat login otomatis ditolak.
+- Istilah **NIS** diganti menjadi **NIM** di seluruh aplikasi.
 
 ## Cara pasang
 
