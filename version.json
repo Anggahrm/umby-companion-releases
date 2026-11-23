@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/Anggahrm/umby-companion-releases/releases/download/v1.0.5/UMBY-Companion-1.0.5.apk",
-  "sha256": "700479E6DCC889FB3FF28308E3ED7066F7479895859A2AB7763613D8C7EB87AF",
-  "notes": "Memperbaiki crash saat memindai QR absensi dan menambah pemulihan kamera."
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/Anggahrm/umby-companion-releases/releases/download/v1.0.6/UMBY-Companion-1.0.6.apk",
+  "sha256": "69EC2BC6A67CDF9C08CC483013931E624ACDAEC0D59D439E563EC51444D041ED",
+  "notes": "Redesign Material Design 3 penuh, fitur KHS + detail OBE, pengumuman dengan poster gambar, Beranda lebih ringkas, pencarian mata kuliah, dan pengingat kelas akurat."
 }
